@@ -53,4 +53,23 @@
       font-size: 14px;
       line-height: 20px;
     }
+      
+    footer {
+      padding-top: 10px;
+      padding-bottom: 30px;
+    }
+
+    footer img {
+      width: 75px;
+      background-color: white;
+      border-radius: 10px;
+    }
+    
+    footer p {
+      float: right;
+      color: white;
+      font-size: 12px;
+      font-weight: bold;
+      padding-top: 0;
+    }
   }
