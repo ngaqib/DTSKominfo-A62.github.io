@@ -247,6 +247,11 @@
     border: 1px solid #dee7ec;
   }
 
+  .tombol {
+    padding: 12px 24px;
+    margin: auto;
+  }
+
   .kirim {
     width: 100%;
     max-width: 400px;
@@ -255,6 +260,8 @@
     cursor: pointer;
     box-shadow: 0 7px #606061;
     color: black;
+    border-radius: 4px;
+    opacity: 0.9;
   }
 
   .kirim:active {
